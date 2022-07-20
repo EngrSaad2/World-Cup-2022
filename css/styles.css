@@ -258,7 +258,13 @@ footer ul {
 }
 
 
-
+.fa-facebook-square,
+.fa-instagram-square,
+.fa-twitter-square,
+.fa-linkedin {
+    font-size: 25px;
+    color: orange;
+}
 
 /* Mobile View */
 
